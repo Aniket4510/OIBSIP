@@ -1,0 +1,8 @@
+Feature,Importance
+ratio_to_median_purchase_price,0.5357276078273947
+distance_from_home,0.18895107064462957
+online_order,0.12406911581499362
+distance_from_last_transaction,0.07388476807771652
+used_pin_number,0.03537645741065442
+used_chip,0.03335956941893131
+repeat_retailer,0.008631410805679968
